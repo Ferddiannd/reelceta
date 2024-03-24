@@ -27,6 +27,13 @@ h2 {
     color: white;
 }
 
+h5 {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+}
+
 label {
     font-size: 16px;
     display: block;
